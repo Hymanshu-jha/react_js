@@ -9,6 +9,11 @@
   --hover-bg: rgb(57, 70, 203);
 }
 
+a.active {
+  color: #cf2d2d;
+  font-size: x-large;
+}
+
 * {
   margin: 0;
   box-sizing: border-box;
